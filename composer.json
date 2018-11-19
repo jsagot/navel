@@ -4,7 +4,7 @@
     "homepage": "http://github.com/jsagot/navel",
     "type": "library",
     "require": {
-        "php": "5.6"
+        "php": ">=5.6"
     },
     "license": "MIT",
     "authors": [
