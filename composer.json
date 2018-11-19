@@ -1,0 +1,21 @@
+{
+    "name": "jsagot/navel",
+    "description": "Lightweight Php Framework",
+    "homepage": "http://github.com/jsagot/navel",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julien SAGOT",
+            "email": "sjmozdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+    ,
+    "autoload": {
+        "psr-4": {"Navel\\": "src/Navel"}
+    }
+}
